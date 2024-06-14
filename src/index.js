@@ -10,7 +10,7 @@ root.render(
   <React.StrictMode>
     <Connector
       // brokerUrl="ws://10.157.46.91:9001"
-      brokerUrl="ws://bonkab.com:9001"
+      brokerUrl="ws://bonkab.com:9002"
       options={ {"protocol": "ws"}}>
     <App />
     </Connector>
